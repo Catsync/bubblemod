@@ -1,0 +1,12 @@
+# Site settings
+title: Bubble Moderation
+email: cat@shenans.co
+description: > # this means to ignore newlines until "baseurl:"
+  Bubble Moderation is an idea for moderating online interactions.
+baseurl: "/bubblemod" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  Catsync
+
+# Build settings
+markdown: kramdown
